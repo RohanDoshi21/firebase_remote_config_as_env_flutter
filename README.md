@@ -64,5 +64,5 @@
     }
 ```
 
-
+Medium Article: [https://medium.com/@rohan.doshi02/using-firebase-remote-config-as-production-environment-config-in-flutter-app-e6cf60714278](https://medium.com/@rohan.doshi02/using-firebase-remote-config-as-production-environment-config-in-flutter-app-e6cf60714278)
 
