@@ -1,0 +1,26 @@
+name: firebase_remote_config_as_env
+description: A new Flutter project.
+
+publish_to: "none"
+
+version: 1.0.0+1
+
+environment:
+    sdk: ">=2.19.6 <3.0.0"
+
+dependencies:
+    flutter:
+        sdk: flutter
+
+    cupertino_icons: ^1.0.2
+    firebase_core: ^2.11.0
+    firebase_remote_config: ^4.1.0
+
+dev_dependencies:
+    flutter_test:
+        sdk: flutter
+
+    flutter_lints: ^2.0.0
+
+flutter:
+    uses-material-design: true
